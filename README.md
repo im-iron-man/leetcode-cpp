@@ -7,4 +7,5 @@
 - [005 longest palindromic substring](./005)
 - [006 zigzag conversion](./006)
 - [007 reverse integer](./007)
+- [008 string to integer atoi](./008)
 - [009 palindrome number](./009)
