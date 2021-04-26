@@ -8,7 +8,7 @@ public:
         string r = "";
         int size = s.size();
         int step1 = numRows - 1;
-        int step2 = numRows != 1 ? 2 * step1 : 1;
+        int step2 = 2 * step1;
 
         for (int j = 0; j < size; j += step2) {
             r += s[j];
@@ -19,7 +19,7 @@ public:
                 if (j - i >= 0) {
                     r += s[j - i];
                 }
-                if (j + i < s.size()) {
+                if (j + i < size) {
                     r += s[j + i];
                 }
             }
