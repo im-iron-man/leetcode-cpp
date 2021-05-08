@@ -18,3 +18,4 @@
 - [016 3sum closest](./016)
 - [017 letter combinations of a phone number](./017)
 - [018 4sum](./018)
+- [019 remove nth node from end of list](./019)
