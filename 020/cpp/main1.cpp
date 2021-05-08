@@ -1,4 +1,4 @@
-iclass Solution {
+class Solution {
 private:
     map<char, char> m = {{')', '('}, {']', '['}, {'}', '{'}};
     
