@@ -20,3 +20,4 @@
 - [018 4sum](./018)
 - [019 remove nth node from end of list](./019)
 - [020 valid parentheses](./020)
+- [021 merge two sorted lists](./021)
