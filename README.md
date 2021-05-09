@@ -27,3 +27,4 @@
 - [025 reverse nodes in k group](./025)
 - [026 remove duplicates from sorted array](./026)
 - [027 remove element](./027)
+- [028 implement strstr](./028)
