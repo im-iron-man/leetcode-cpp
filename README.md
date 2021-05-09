@@ -24,3 +24,4 @@
 - [022 generate parentheses](./022)
 - [023 merge k sorted lists](./023)
 - [024 swap nodes in pairs](./024)
+- [025 reverse nodes in k group](./025)
