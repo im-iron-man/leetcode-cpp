@@ -23,3 +23,4 @@
 - [021 merge two sorted lists](./021)
 - [022 generate parentheses](./022)
 - [023 merge k sorted lists](./023)
+- [024 swap nodes in pairs](./024)
