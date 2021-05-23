@@ -28,3 +28,4 @@
 - [026 remove duplicates from sorted array](./026)
 - [027 remove element](./027)
 - [028 implement strstr](./028)
+- [160 intersection of two linked lists](./160)
