@@ -30,4 +30,5 @@
 - [028 implement strstr](./028)
 - [029 divide two integers](./029)
 - [035 search insert position](./035)
+- [038 count and say](./038)
 - [160 intersection of two linked lists](./160)
