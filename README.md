@@ -29,4 +29,5 @@
 - [027 remove element](./027)
 - [028 implement strstr](./028)
 - [029 divide two integers](./029)
+- [035 search insert position](./035)
 - [160 intersection of two linked lists](./160)
