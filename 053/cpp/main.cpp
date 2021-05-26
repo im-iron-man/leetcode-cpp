@@ -7,7 +7,6 @@ public:
             t += nums[j];
             r = max(r, t);
             t = max(0, t);
-            
         }
         return r;
     }
