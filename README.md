@@ -36,4 +36,5 @@
 - [066 plus one](./066)
 - [067 add binary](./067)
 - [069 sqrtx](./069)
+- [070 climbing stairs](./070)
 - [160 intersection of two linked lists](./160)
