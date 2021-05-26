@@ -33,4 +33,5 @@
 - [038 count and say](./038)
 - [053 maximum subarray](./053)
 - [058 length of last word](./058)
+- [066 plus one](./066)
 - [160 intersection of two linked lists](./160)
