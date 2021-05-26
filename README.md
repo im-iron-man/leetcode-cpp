@@ -35,4 +35,5 @@
 - [058 length of last word](./058)
 - [066 plus one](./066)
 - [067 add binary](./067)
+- [069 sqrtx](./069)
 - [160 intersection of two linked lists](./160)
