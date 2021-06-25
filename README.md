@@ -37,4 +37,5 @@
 - [067 add binary](./067)
 - [069 sqrtx](./069)
 - [070 climbing stairs](./070)
+- [083 remove duplicates from sorted list](./083)
 - [160 intersection of two linked lists](./160)
