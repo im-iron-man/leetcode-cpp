@@ -40,4 +40,5 @@
 - [082 remove duplicates from sorted list ii](./082)
 - [083 remove duplicates from sorted list](./083)
 - [088 merge sorted array](./088)
+- [100 same tree](./100)
 - [160 intersection of two linked lists](./160)
