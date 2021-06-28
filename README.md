@@ -44,4 +44,5 @@
 - [101 symmetric tree](./101)
 - [102 binary tree level order traversal](./102)
 - [103 binary tree zigzag level order traversal](./103)
+- [104 maximum depth of binary tree](./104)
 - [160 intersection of two linked lists](./160)
