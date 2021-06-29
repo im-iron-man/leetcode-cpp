@@ -46,4 +46,5 @@
 - [103 binary tree zigzag level order traversal](./103)
 - [104 maximum depth of binary tree](./104)
 - [105 construct binary tree from preorder and inorder traversal](./105)
+- [106 construct binary tree from inorder and postorder traversal](./106)
 - [160 intersection of two linked lists](./160)
