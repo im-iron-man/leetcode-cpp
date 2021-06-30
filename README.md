@@ -52,4 +52,5 @@
 - [109 convert sorted list to binary search tree](./109)
 - [110 balanced binary tree](./110)
 - [111 minimum depth of binary tree](./111)
+- [112 path sum](./112)
 - [160 intersection of two linked lists](./160)
