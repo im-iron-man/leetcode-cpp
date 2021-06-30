@@ -54,4 +54,5 @@
 - [111 minimum depth of binary tree](./111)
 - [112 path sum](./112)
 - [113 path sum ii](./113)
+- [118 pascals triangle](./118)
 - [160 intersection of two linked lists](./160)
