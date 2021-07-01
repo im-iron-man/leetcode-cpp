@@ -57,4 +57,5 @@
 - [114 flatten binary tree to linked list](./114)
 - [118 pascals triangle](./118)
 - [119 pascals triangle ii](./119)
+- [121 best time to buy and sell stock](./121)
 - [160 intersection of two linked lists](./160)
