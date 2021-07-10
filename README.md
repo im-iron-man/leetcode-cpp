@@ -60,6 +60,7 @@
 - [121 best time to buy and sell stock](./121)
 - [122 best time to buy and sell stock ii](./122)
 - [123 best time to buy and sell stock iii](./123)
+- [124 binary tree maximum path sum](./124)
 - [125 valid palindrome](./125)
 - [136 single number](./136)
 - [137 single number ii](./137)
