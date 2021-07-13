@@ -30,23 +30,17 @@ public:
         }
         
         int n = 0;
-        while (true) {
+        do {
             n++;
             fast = fast->next->next;
             slow = slow->next;
-            if (fast == slow) {
-                break;
-            }
-        }
+        } while (fast != slow);
         
         slow = head;
         fast = head;
         for (int i = 0; i < n; fast = fast->next, i++);
         
-        while (true) {
-            if (fast == slow) {
-                break;
-            }
+        while (fast != slow) {
             slow = slow->next;
             fast = fast->next;
             
