@@ -66,4 +66,5 @@
 - [137 single number ii](./137)
 - [141 linked list cycle](./141)
 - [142 linked list cycle ii](./142)
+- [144 binary tree preorder traversal](./144)
 - [160 intersection of two linked lists](./160)
