@@ -73,6 +73,7 @@
 - [167 two sum ii input array is sorted](./167)
 - [168 excel sheet column title](./168)
 - [171 excel sheet column number](./171)
+- [172 factorial trailing zeroes](./172)
 - [175 combine two tables](./175)
 - [231 power of two](./231)
 - [292 nim game](./292)
