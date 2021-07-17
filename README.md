@@ -76,5 +76,6 @@
 - [172 factorial trailing zeroes](./172)
 - [175 combine two tables](./175)
 - [189 rotate array](./189)
+- [190 reverse bits](./190)
 - [231 power of two](./231)
 - [292 nim game](./292)
