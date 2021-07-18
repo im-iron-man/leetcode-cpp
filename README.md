@@ -78,6 +78,7 @@
 - [175 combine two tables](./175)
 - [177 nth highest salary](./177)
 - [178 rank scores](./178)
+- [180 consecutive numbers](./180)
 - [189 rotate array](./189)
 - [190 reverse bits](./190)
 - [191 number of 1 bits](./191)
