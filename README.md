@@ -79,6 +79,7 @@
 - [177 nth highest salary](./177)
 - [178 rank scores](./178)
 - [180 consecutive numbers](./180)
+- [186 department highest salary](./186)
 - [189 rotate array](./189)
 - [190 reverse bits](./190)
 - [191 number of 1 bits](./191)
