@@ -76,6 +76,8 @@
 - [171 excel sheet column number](./171)
 - [172 factorial trailing zeroes](./172)
 - [175 combine two tables](./175)
+- [177 nth highest salary](./177)
+- [178 rank scores](./178)
 - [189 rotate array](./189)
 - [190 reverse bits](./190)
 - [191 number of 1 bits](./191)
