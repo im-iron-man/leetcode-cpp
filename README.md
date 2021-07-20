@@ -37,6 +37,7 @@
 - [067 add binary](./067)
 - [069 sqrtx](./069)
 - [070 climbing stairs](./070)
+- [074 search a 2d matrix](./074)
 - [082 remove duplicates from sorted list ii](./082)
 - [083 remove duplicates from sorted list](./083)
 - [088 merge sorted array](./088)
