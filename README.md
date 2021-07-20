@@ -86,4 +86,5 @@
 - [191 number of 1 bits](./191)
 - [202 happy number](./202)
 - [231 power of two](./231)
+- [240 search a 2d matrix ii](./240)
 - [292 nim game](./292)
