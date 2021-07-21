@@ -77,6 +77,7 @@
 - [171 excel sheet column number](./171)
 - [172 factorial trailing zeroes](./172)
 - [175 combine two tables](./175)
+- [176 second highest salary](./176)
 - [177 nth highest salary](./177)
 - [178 rank scores](./178)
 - [180 consecutive numbers](./180)
