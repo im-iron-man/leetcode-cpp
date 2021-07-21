@@ -88,6 +88,7 @@
 - [189 rotate array](./189)
 - [190 reverse bits](./190)
 - [191 number of 1 bits](./191)
+- [196 delete duplicate emails](./196)
 - [202 happy number](./202)
 - [231 power of two](./231)
 - [240 search a 2d matrix ii](./240)
