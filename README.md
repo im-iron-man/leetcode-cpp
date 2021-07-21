@@ -81,6 +81,7 @@
 - [177 nth highest salary](./177)
 - [178 rank scores](./178)
 - [180 consecutive numbers](./180)
+- [181 employees earning more than their managers](./181)
 - [184 department highest salary](./184)
 - [189 rotate array](./189)
 - [190 reverse bits](./190)
