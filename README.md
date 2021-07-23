@@ -92,6 +92,7 @@
 - [197 rising temperature](./197)
 - [202 happy number](./202)
 - [203 remove linked list elements](./203)
+- [204 count primes](./204)
 - [231 power of two](./231)
 - [240 search a 2d matrix ii](./240)
 - [292 nim game](./292)
