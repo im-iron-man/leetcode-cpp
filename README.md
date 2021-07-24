@@ -94,6 +94,7 @@
 - [203 remove linked list elements](./203)
 - [204 count primes](./204)
 - [205 isomorphic strings](./205)
+- [206 reverse linked list](./206)
 - [231 power of two](./231)
 - [240 search a 2d matrix ii](./240)
 - [292 nim game](./292)
