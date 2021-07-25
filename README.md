@@ -97,6 +97,7 @@
 - [206 reverse linked list](./206)
 - [217 contains duplicate](./217)
 - [219 contains duplicate ii](./219)
+- [220 contains duplicate iii](./220)
 - [231 power of two](./231)
 - [240 search a 2d matrix ii](./240)
 - [292 nim game](./292)
