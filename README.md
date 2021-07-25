@@ -96,6 +96,7 @@
 - [205 isomorphic strings](./205)
 - [206 reverse linked list](./206)
 - [217 contains duplicate](./217)
+- [219 contains duplicate ii](./219)
 - [231 power of two](./231)
 - [240 search a 2d matrix ii](./240)
 - [292 nim game](./292)
