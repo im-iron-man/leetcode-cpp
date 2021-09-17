@@ -103,3 +103,4 @@
 - [231 power of two](./231)
 - [240 search a 2d matrix ii](./240)
 - [292 nim game](./292)
+- [724 find pivot index](./724)
