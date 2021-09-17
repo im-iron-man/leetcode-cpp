@@ -105,3 +105,4 @@
 - [292 nim game](./292)
 - [560 subarray sum equals k](./560)
 - [724 find pivot index](./724)
+- [930 binary subarrays with sum](./930)
