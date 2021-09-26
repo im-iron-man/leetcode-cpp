@@ -106,4 +106,5 @@
 - [560 subarray sum equals k](./560)
 - [724 find pivot index](./724)
 - [930 binary subarrays with sum](./930)
+- [974 subarray sums divisible by k](./974)
 - [1248 count number of nice subarrays](./1248)
