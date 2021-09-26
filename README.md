@@ -103,6 +103,7 @@
 - [231 power of two](./231)
 - [240 search a 2d matrix ii](./240)
 - [292 nim game](./292)
+- [523 continuous subarray sum](./523)
 - [560 subarray sum equals k](./560)
 - [724 find pivot index](./724)
 - [930 binary subarrays with sum](./930)
