@@ -109,3 +109,4 @@
 - [930 binary subarrays with sum](./930)
 - [974 subarray sums divisible by k](./974)
 - [1248 count number of nice subarrays](./1248)
+- [1480 running sum of 1d array](./1480)
