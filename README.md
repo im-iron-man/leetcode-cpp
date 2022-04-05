@@ -41,6 +41,7 @@
 - [082 remove duplicates from sorted list ii](./082)
 - [083 remove duplicates from sorted list](./083)
 - [088 merge sorted array](./088)
+- [094 binary tree inorder traversal](./094)
 - [100 same tree](./100)
 - [101 symmetric tree](./101)
 - [102 binary tree level order traversal](./102)
