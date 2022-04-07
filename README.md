@@ -108,6 +108,7 @@
 - [235 lowest common ancestor of a binary search tree](./235)
 - [237 delete node in a linked list](./237)
 - [240 search a 2d matrix ii](./240)
+- [242 valid anagram](./242)
 - [292 nim game](./292)
 - [523 continuous subarray sum](./523)
 - [560 subarray sum equals k](./560)
