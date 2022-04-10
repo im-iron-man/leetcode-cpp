@@ -110,6 +110,8 @@
 - [240 search a 2d matrix ii](./240)
 - [242 valid anagram](./242)
 - [257 binary tree paths](./257)
+- [258 add digits](./258)
+- [263 ugly number](./263)
 - [292 nim game](./292)
 - [523 continuous subarray sum](./523)
 - [560 subarray sum equals k](./560)
