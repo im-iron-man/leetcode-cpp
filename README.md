@@ -112,6 +112,8 @@
 - [257 binary tree paths](./257)
 - [258 add digits](./258)
 - [263 ugly number](./263)
+- [268 missing number](./268)
+- [278 first bad version](./278)
 - [292 nim game](./292)
 - [523 continuous subarray sum](./523)
 - [560 subarray sum equals k](./560)
