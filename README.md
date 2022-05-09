@@ -114,6 +114,8 @@
 - [263 ugly number](./263)
 - [268 missing number](./268)
 - [278 first bad version](./278)
+- [283 move zeroes](./283)
+- [290 word pattern](./290)
 - [292 nim game](./292)
 - [523 continuous subarray sum](./523)
 - [560 subarray sum equals k](./560)
